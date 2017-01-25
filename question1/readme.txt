@@ -1,0 +1,1 @@
+question1.m is the main program, while rectangular.m is the function of waveform generation. The simulation result in the summary slides can be obtained by directly running question1.m.
