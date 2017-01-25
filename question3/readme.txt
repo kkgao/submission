@@ -1,0 +1,1 @@
+question3.m is the main program, while quant_saturation.m is the function of quantization. The simulation result in the summary slides can be obtained by directly running question3.m.
